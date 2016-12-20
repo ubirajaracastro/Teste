@@ -62,14 +62,7 @@ namespace ConsoleApplication3
            
 
         }
-
-
-        public static void alteraObjeto(object obj)
-        {
-            obj = 7;
-            
-
-        }
+       
 
     }
 }
